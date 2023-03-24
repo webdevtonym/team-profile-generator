@@ -10,7 +10,7 @@
 
 ![](/images/img.png)
 
-Link to application: https://webdevtonym.github.io/plan-your-day/
+Link to application: https://webdevtonym.github.io/team-profile-generator/
 
 ## License
 
